@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Penataan rapi seluruh pintasan keyboard (C, P, D, V, W, F, I, L, T, M, S, A, U) sangat mudah dihafal.\n- Pintasan NVDA+Alt+V: Dialog Lapisan Velocity 1-127 lengkap (Sorot Layer, Hapus Wave, Tambah Wave) tanpa Golden Cursor.\n- Pintasan NVDA+Alt+F: Navigasi cepat seksi Voice Editor (Filter, General, Wave Assign, Amplitude, Pitch, LFO).\n- Program Change 001-128 lengkap berurutan tanpa lompat (slot 094 Kendang dut terbaca presisi).\n- Buku Panduan Lengkap komprehensif 14 Bab resmi Said Sanjaya."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Dukungan Multi-Instrumen Penuh: pemisahan bersih setiap Instrument Info (PSR-S975, PSR-SX700, dll.) dipisah satu per satu tanpa digabung.\n- Pemilih Keyboard Target di dialog NVDA+Alt+T: kotak pilihan untuk beralih instrumen target langsung dengan panah atas/bawah beserta pembaruan memori otomatis.\n- Pintasan NVDA+Alt+V: Dialog Lapisan Velocity 1-127 lengkap.\n- Pintasan NVDA+Alt+F: Navigasi cepat seksi Voice Editor (Filter, General, Wave Assign, dll.).\n- Program Change 001-128 lengkap tanpa lompatan."
 }
