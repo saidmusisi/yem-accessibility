@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music). Perbaikan penuh Program Change: 128 slot berurutan tanpa lompat (001-128 lengkap, Kendang dut terbaca presisi di slot 094)."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Pintasan NVDA+Alt+V: Dialog Lapisan Velocity 1-127 lengkap (Sorot Layer, Hapus Wave, Tambah Wave) untuk Drum Voice & Normal Voice tanpa Golden Cursor.\n- Pintasan NVDA+Alt+F: Navigasi cepat seksi Voice Editor (Filter, Wave Assign, General, Amplitude, Pitch, LFO).\n- Program Change 001-128 lengkap berurutan."
 }
