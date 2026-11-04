@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Perbaikan Kritis: eliminasi loop rekursif objek UIA pada pembacaan multi-target instrumen sehingga NVDA tidak macet saat YEM dibuka.\n- Pemisahan bersih multi-instrumen (PSR-S975, PSR-SX700) satu per satu.\n- Pemilih Keyboard Target praktis di NVDA+Alt+T.\n- Dialog Lapisan Velocity 1-127 lengkap (NVDA+Alt+V).\n- Navigasi Seksi Voice Editor & Filter (NVDA+Alt+F).\n- Program Change 001-128 berurutan tanpa lompatan."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Pembersihan Navigator (NVDA+Alt+Y): menyembunyikan 84 kartu konten tanpa nama dari daftar sehingga navigator hanya menampilkan tombol-tombol toolbar penting.\n- Pemisahan bersih multi-target instrumen (PSR-S975, PSR-SX700) satu per satu.\n- Pemilih Keyboard Target di dialog NVDA+Alt+T.\n- Dialog Lapisan Velocity 1-127 lengkap (NVDA+Alt+V).\n- Navigasi Seksi Voice Editor & Filter (NVDA+Alt+F).\n- Program Change 001-128 berurutan tanpa lompatan."
 }
