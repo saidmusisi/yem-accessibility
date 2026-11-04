@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Pembaruan Otomatis Navigator (NVDA+Alt+Y): setiap kali mengklik menu atau beralih target instrumen, daftar otomatis diperbarui seketika tanpa perlu menekan tombol Segarkan lagi.\n- Pelabelan Otentik YEM: tombol simpan CPI menggunakan teks asli dari Yamaha yaitu 'Save as Pack Install File'.\n- Cerdas Fokus: beralih target otomatis mengarahkan fokus ke target dan tombol Save as Pack Install File.\n- Enter pada 'Save as Pack Install File' langsung memicu jendela penyimpanan berkas Windows.\n- Pintasan instan NVDA+Alt+Shift+S untuk langsung ekspor CPI kapan saja."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Navigasi Otomatis & Cepat di NVDA+Alt+Y: setiap tindakan otomatis memperbarui menu tanpa tombol Segarkan manual.\n- Dukungan tombol 'Paket ekspansi saya' (My Packs) aktif 100%: tekan Enter pada Paket ekspansi saya langsung menutup tampilan instrumen info dan kembali ke daftar paket utama.\n- Tombol ekspor CPI memakai teks asli bawaan YEM: 'Save as Pack Install File'.\n- Enter pada 'Save as Pack Install File' langsung memicu jendela penyimpanan berkas Windows.\n- Pintasan instan NVDA+Alt+Shift+S untuk langsung ekspor CPI kapan saja."
 }
