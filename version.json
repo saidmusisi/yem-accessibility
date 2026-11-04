@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Buku Panduan Lengkap Diperbarui 100%: penjelasan kompatibilitas universal di semua resolusi komputer, cara menutup instrumen info (Paket Saya), navigasi otomatis NVDA+Alt+Y, dan panduan lengkap ekspor file .ppi vs .cpi.\n- Tombol ekspor CPI/PPI memakai teks asli YEM: 'Save as Pack Install File'.\n- Dialog Lapisan Velocity 1-127 lengkap (NVDA+Alt+V).\n- Navigasi Seksi Voice Editor & Filter (NVDA+Alt+F).\n- Program Change 001-128 berurutan tanpa lompatan."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Revisi Buku Panduan Resmi Pembeli: membersihkan seluruh catatan teknis internal dan rahasia sistem; buku panduan murni memuat petunjuk penggunaan praktis add-on saja.\n- Panduan lengkap ekspor file .ppi dan .cpi via tombol asli 'Save as Pack Install File'.\n- Dialog Lapisan Velocity 1-127 lengkap (NVDA+Alt+V).\n- Navigasi Seksi Voice Editor & Filter (NVDA+Alt+F).\n- Program Change 001-128 berurutan tanpa lompatan."
 }
