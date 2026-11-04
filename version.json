@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0",
   "download_url": "https://wa.me/6285645865006",
-  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Tombol 'Save as Pack Install File' kini 100% andal memicu jendela penyimpanan berkas Windows (Save As dialog) via InvokePattern terpercaya.\n- Dukungan otomatis beralih ke target aktif saat tombol Save dipicu dari posisi mana pun.\n- Dukungan ekspor format .ppi dan .cpi langsung di kotak Save as type.\n- Navigasi Otomatis & Cepat di NVDA+Alt+Y tanpa tombol Segarkan manual.\n- Dukungan tombol 'Paket ekspansi saya' (My Packs) aktif 100% untuk menutup tampilan target instrumen."
+  "changelog": "Versi rilis resmi YEM Accessibility Pro oleh Said Sanjaya (MSS Music).\n- Buku Panduan Lengkap Diperbarui 100%: penjelasan kompatibilitas universal di semua resolusi komputer, cara menutup instrumen info (Paket Saya), navigasi otomatis NVDA+Alt+Y, dan panduan lengkap ekspor file .ppi vs .cpi.\n- Tombol ekspor CPI/PPI memakai teks asli YEM: 'Save as Pack Install File'.\n- Dialog Lapisan Velocity 1-127 lengkap (NVDA+Alt+V).\n- Navigasi Seksi Voice Editor & Filter (NVDA+Alt+F).\n- Program Change 001-128 berurutan tanpa lompatan."
 }
