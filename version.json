@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.3",
-  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.3/YEMAccessibilityPro-v1.3.nvda-addon",
-  "changelog": "- Pemindahan LSB Paket Pasti & Akurat: Pemindahan LSB via NVDA+Alt+L kini langsung mengubah database resmi YEM tanpa gagal.\n- Pembersihan kontrol Navigator (NVDA+Alt+Y): Item tanpa nama otomatis disembunyikan.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
+  "latest_version": "1.4",
+  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.4/YEMAccessibilityPro-v1.4.nvda-addon",
+  "changelog": "- Sinkronisasi LSB Voice Lengkap: Pemindahan LSB paket via NVDA+Alt+L kini otomatis memperbarui nilai LSB seluruh voice di dalam paket (MSB 62/63).\n- Nomor LSB dan MSB voice list akurat dan sinkron 100% saat diekspor ke organ.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
 }
