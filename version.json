@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.2",
-  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.2/YEMAccessibilityPro-v1.2.nvda-addon",
-  "changelog": "- Pembersihan daftar Navigator (NVDA+Alt+Y): Item tanpa nama pada pemetaan LSB dan Program Change kini disembunyikan agar menu rapi.\n- Pemetaan LSB Paket Lengkap & Urut (000–127) via NVDA+Alt+L.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
+  "latest_version": "1.3",
+  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.3/YEMAccessibilityPro-v1.3.nvda-addon",
+  "changelog": "- Pemindahan LSB Paket Pasti & Akurat: Pemindahan LSB via NVDA+Alt+L kini langsung mengubah database resmi YEM tanpa gagal.\n- Pembersihan kontrol Navigator (NVDA+Alt+Y): Item tanpa nama otomatis disembunyikan.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
 }
