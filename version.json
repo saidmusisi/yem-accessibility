@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4",
-  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.4/YEMAccessibilityPro-v1.4.nvda-addon",
-  "changelog": "- Sinkronisasi LSB Voice Lengkap: Pemindahan LSB paket via NVDA+Alt+L kini otomatis memperbarui nilai LSB seluruh voice di dalam paket (MSB 62/63).\n- Nomor LSB dan MSB voice list akurat dan sinkron 100% saat diekspor ke organ.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
+  "latest_version": "1.5",
+  "download_url": "https://github.com/saidmusisi/yem-accessibility/releases/download/v1.5/YEMAccessibilityPro-v1.5.nvda-addon",
+  "changelog": "- Pemeriksaan pembaruan otomatis: saat YEM dibuka pertama kali dalam satu sesi NVDA, add-on memberi tahu jika ada versi lebih baru. Tekan NVDA+Alt+U untuk detail dan tautan unduhan.\n- Audition sampel suara dan tuts drum jauh lebih cepat (sekitar 2 detik menjadi sekitar setengah detik), tanpa efek ganda saat ditekan berulang.\n- Pintasan katalog (NVDA+Alt+K) dan navigator OCR (NVDA+Alt+O) dipastikan tetap aktif.\n- Lisensi yang sudah aktif tetap berlaku penuh dan permanen."
 }
